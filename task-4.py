@@ -25,7 +25,7 @@ def show_size(x, level=0):
 print(f'Общий объём памяти = {sys.getsizeof(a)} байт')
 print(f'Общий объём памяти = {sys.getsizeof(n)} байт')
 print(f'Общий объём памяти = {sys.getsizeof(m)} байт')
-print(f'Общий объём памяти = {show_size(n)} байт')
+show_size(n)
 
 print (sys.platform)
 print (sys.version)
