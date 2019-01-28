@@ -34,3 +34,9 @@ print(f'Общий объём памяти = {size} байт')
 print('system   :', platform.system())
 print('processor:', platform.processor())
 print("The Python version is %s.%s.%s" % sys.version_info[:3])
+
+введите данные a: 555
+Общий объём памяти = 28 байт
+system   : Linux
+processor: x86_64
+The Python version is 3.7.2
