@@ -40,3 +40,11 @@ print(f'Общий объём памяти = {size} байт')
 print('system   :', platform.system())
 print('processor:', platform.processor())
 print("The Python version is %s.%s.%s" % sys.version_info[:3]) 
+
+[-45, -20, 14, 72, 88, 4, -20, -66, -3, -14]
+Номер элемента : 9 Максимальное отрицательное число : -3
+Общий объём памяти = 80 байт
+system   : Linux
+processor: x86_64
+The Python version is 3.7.2
+
